@@ -9,16 +9,15 @@ Para los que recién estan llegando es estas webadas:
 
 Comenzaras agregando uno por uno:
 
-Pkg update && pkg upgrade 
+> Pkg update && pkg upgrade 
+> Apt update
+> Apt upgrade 
 
-Apt update
-
-Apt upgrade 
 Luego, atendes aca boludito, luego decis que te saltó un error.
 
 Vas a poner estos comandos
 
-pkg install git
+> pkg install git
 > pkg install nodejs
 > pkg install ffmpeg
 > pkg install imagemagick
@@ -29,14 +28,14 @@ copialo y pegalo en termux. Por cierto primero debes poner git clone, un espacio
 
 Luego, pondras estos comandos: 
 
-  > cd TheMystic-Bot-MD
+> cd TheMystic-Bot-MD
 > npm install
 > npm install
 > npm update
 
 Y para iniciar el bot solo pon: 
 
-→npm start
+>npm start
 
 Che, boludo, recuerda que tienes que tener dos teléfonos para
 Escanear el código qr. el primer teléfono es para hacer la captura del código QR,
