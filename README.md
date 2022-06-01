@@ -33,7 +33,7 @@ copialo y pegalo en termux. Por cierto primero debes poner git clone, un espacio
 
 Luego, pondras estos comandos: 
 
-> cd TheMystic-Bot-MD
+> cd Lolibot-remastered
 
 > npm install
 
